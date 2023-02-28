@@ -1,6 +1,8 @@
 # Hey Devs!
 
-This is your buddy to :DevsBuddy:
+This is your buddy [Shoaib Khan](https://github.com/iamspydey) from [DevsBuddy](https://devsbuddy.com), I am here to create some awesome projects which can be usefull for other developers.
+
+I am also working on some personal projects which will be published soon. They can be usefull for the developers to get and share knowledge and tips and tricks.
 
 
 <div align="center">
